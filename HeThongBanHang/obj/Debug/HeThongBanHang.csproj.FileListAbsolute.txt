@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\HeThongBanHang\HeThongBanHang\bin\Debug\HeThongBanHang.exe.config
+C:\Users\admin\source\repos\HeThongBanHang\HeThongBanHang\bin\Debug\HeThongBanHang.exe
+C:\Users\admin\source\repos\HeThongBanHang\HeThongBanHang\bin\Debug\HeThongBanHang.pdb
+C:\Users\admin\source\repos\HeThongBanHang\HeThongBanHang\obj\Debug\HeThongBanHang.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\HeThongBanHang\HeThongBanHang\obj\Debug\HeThongBanHang.Form1.resources
+C:\Users\admin\source\repos\HeThongBanHang\HeThongBanHang\obj\Debug\HeThongBanHang.Properties.Resources.resources
+C:\Users\admin\source\repos\HeThongBanHang\HeThongBanHang\obj\Debug\HeThongBanHang.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\HeThongBanHang\HeThongBanHang\obj\Debug\HeThongBanHang.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\HeThongBanHang\HeThongBanHang\obj\Debug\HeThongBanHang.exe
+C:\Users\admin\source\repos\HeThongBanHang\HeThongBanHang\obj\Debug\HeThongBanHang.pdb
